@@ -43,6 +43,11 @@ Icon action | Description
 ![](/pictures/setparameters.png) | Set and/or reset Logistic regression and Color Deconvolution parameters.
 
 
+Image test and results
+-----------------
+You can use this small picture to test the software. At the end, a scatterplot shows the (x,y) (ratio EMST, CV) coordinates of the patient among the original data utilized for the article published in Applied Immunohistochemistry & Molecular Morphology. If you reproduce your own in house study, you might have different logistic regression parameters that you can set in the software (see icon action above).
+![](/pictures/test.tif)
+![](/pictures/results.png)
 
 Feedback
 -----------------
