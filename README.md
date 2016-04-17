@@ -45,11 +45,14 @@ Icon action | Description
 
 Image test and results
 -----------------
-You can use this small picture to test the software. At the end, a scatterplot shows the (x,y) (ratio EMST, CV) coordinates of the patient among the original data utilized for the article published in Applied Immunohistochemistry & Molecular Morphology. If you reproduce your own in house study, you might have different logistic regression parameters that you can set in the software (see icon action above).
+You can use this small picture (test.jpg) to test the software.
 
-![](/pictures/test.jpg)
+<a href="url"><img src="/pictures/test.jpg" align="center" height="500" width="500" ></a> 
 
-![](/pictures/results.png)
+At the end, a scatterplot shows the (x,y) (ratio EMST, CV) coordinates of the patient among the original data utilized for the article published in Applied Immunohistochemistry & Molecular Morphology. If you reproduce your own in house study, you might have different logistic regression parameters that you can set in the software (see icon action above).
+
+<a href="url"><img src="/pictures/results.png" align="center" height="500" width="500" ></a>
+
 
 Feedback
 -----------------
