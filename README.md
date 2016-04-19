@@ -5,7 +5,7 @@ This software refers to this article published in Applied Immunohistochemistry &
 
 Prerequisites and software installation
 This software requires installation of imageJ, an open source software written in Java, available for Linux, Mac OS X and Windows. ImageJ is available [here](https://imagej.nih.gov/ij/). Basic understanding of ImageJ will facilitate installation.
-Current software (MYC_IHC.txt) is a "toolset" written in macro language and requires to be installed in the following directory:
+Current software (**MYC_IHC.txt**) is a "toolset" written in imagej macro language and requires to be installed in the following directory:
 ```
 → ImageJ → macros → toolsets.
 ```
