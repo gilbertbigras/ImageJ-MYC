@@ -1,7 +1,7 @@
 
 IHC MYC
 ==========
-This software refers to this [article](http://www.ncbi.nlm.nih.gov/pubmed/27093450) published in Applied Immunohistochemistry & Molecular Morphology. The article will be soon available as open source manuscript.
+This software refers to this [article](http://www.ncbi.nlm.nih.gov/pubmed/27093450) published in Applied Immunohistochemistry & Molecular Morphology. The article is available as open source manuscript.
 
 Prerequisites and software installation
 This software requires installation of imageJ, an open source software written in Java, available for Linux, Mac OS X and Windows. ImageJ is available [here](https://imagej.nih.gov/ij/). Basic understanding of ImageJ will facilitate installation.
