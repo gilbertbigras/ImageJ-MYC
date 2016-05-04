@@ -49,7 +49,7 @@ var gUnitVectorsStatus;
 var gInterceptdefault = 24.267;
 var gBeta1default = 6.2209;
 var gBeta2default = 0.5053;
-var gThresholdProbabilityForMYCPOSdefault = 0.11;
+var gThresholdProbabilityForMYCPOSdefault = 11;
 
 var gIntercept;
 var gBeta1;
